@@ -1,0 +1,8 @@
+!health (sm_spawnitem weapon_first_aid_kit 2)
+!fu (sm_spawn tank)
+!fireball (sm_spawnitem gascan 10)
+!horde (sm_summon common 10)
+!give (sm_spawnitem {param})
+!spawn (sm_spawn {param})
+!beans (sm_spawnitem weapon_pills)
+

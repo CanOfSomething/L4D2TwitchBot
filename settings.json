@@ -1,0 +1,7 @@
+"java.home":"path-to-jdk14",
+"java.configuration.runtimes": [
+        {
+            "name": "JavaSE-14",
+            "path": "path-to-jdk14",
+        }
+    ]
